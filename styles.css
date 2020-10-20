@@ -1,0 +1,36 @@
+img {
+    width: 500px;
+    height: 400px;
+}
+
+
+
+
+body {
+    text-align: center;
+    background-color: lightblue;
+}
+
+.hi {
+    font-family: 'Pacifico', cursive;
+}
+
+h1 {
+    border-style: solid;
+}
+
+.Luci {
+    font-family: 'Fascinate Inline', cursive;
+}
+
+.alan {
+    font-family: 'Anton', sans-serif;
+}
+
+.boku {
+    font-family: 'Baloo Bhai', cursive;
+}
+
+h2 {
+    font-family: 'Lobster', cursive;
+}
